@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋<br/>
 
-Its just a basic learning project using Html and Css 
+Its just a basic learning project using Html and Css<br/>
 Hope you find it good and if you have any suggestion please tell
 
 <!--
