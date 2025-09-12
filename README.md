@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4CC&width=550&lines=Hey%2C+I'm+Rohan+👋;Student+%7C+Developer+%7C+Data+Science+Enthusiast;Always+learning+and+building+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4CC&width=550&lines=Student+%7C+Developer+%7C+Data+Science+Enthusiast;Always+learning+and+building+new+things!)](https://git.io/typing-svg)
 
 🚀 **Aspiring Developer & Data Science Enthusiast**  
 🎓 2nd Semester | Integrated M.Tech in Computational & Data Science @ VIT Bhopal  
