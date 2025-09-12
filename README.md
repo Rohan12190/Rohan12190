@@ -76,8 +76,7 @@
 - ✅ Master Python for Data Science  
 - ✅ Build 3–5 Data Science projects and upload to GitHub  
 - ✅ Learn and practice Advanced SQL queries  
-- 🔄 Learn **React + Node.js Full Stack Development**  
-- 🔜 Apply for **Internships (Jan 2026)**  
+- 🔄 Learn **React + Node.js Full Stack Development**   
 
 ---
 
