@@ -59,9 +59,11 @@
 ---
 
 ## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Rohan12190&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=Rohan12190&theme=dark&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan12190&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+[![](https://raw.githubusercontent.com/Rohan12190/Rohan12190/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rohan12190/Rohan12190/main/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rohan12190/Rohan12190/main/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rohan12190/Rohan12190/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rohan12190/Rohan12190/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
 
 ---
 
